@@ -5,7 +5,7 @@
 
 Submitted by: **Uriel Sejas**
 
-Time spent: **1** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
